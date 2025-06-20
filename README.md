@@ -48,7 +48,6 @@ project/
 │   └── main.py
 │
 └── Readme.md
-│
 ```
 
 ## Requirements
